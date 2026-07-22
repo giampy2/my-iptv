@@ -1,7 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="SPOSTA TUTTO QUI - TUTTI I CANALI",TUTTI I CANALI MONDO (AUTO-UPDATE)
-https://iptv-org.github.io/iptv/index.m3u
-#EXTINF:-1 group-title="SPORT & PREMIUM",SPORT MONDIALE (HD)
-https://iptv-org.github.io/iptv/index.it.m3u
-#EXTINF:-1 group-title="CINEMA & SERIE",FILM E SERIE TV
-https://iptv-org.github.io/iptv/index.us.m3u
+#EXTINF:-1 tvg-id="Rai1" group-title="ITALIA",Rai 1
+http://rai1.m3u8.live/live.m3u8
+#EXTINF:-1 tvg-id="Rai2" group-title="ITALIA",Rai 2
+http://rai2.m3u8.live/live.m3u8
+#EXTINF:-1 tvg-id="Rai3" group-title="ITALIA",Rai 3
+http://rai3.m3u8.live/live.m3u8
+#EXTINF:-1 tvg-id="Canale5" group-title="ITALIA",Canale 5
+http://canale5.m3u8.live/live.m3u8
+#EXTINF:-1 tvg-id="Italia1" group-title="ITALIA",Italia 1
+http://italia1.m3u8.live/live.m3u8
+#EXTINF:-1 tvg-id="CanaleNove" group-title="ITALIA",Canale Nove
+http://canalenove.m3u8.live/live.m3u8
+#EXTINF:-1 tvg-id="La7" group-title="ITALIA",La7
+http://la7.m3u8.live/live.m3u8
+#EXTINF:-1 tvg-id="AlJazeera" group-title="NEWS",Al Jazeera
+https://live.aljazeera.net/playlist.m3u8
+#EXTINF:-1 tvg-id="France24" group-title="NEWS",France 24
+https://static.france24.com/live/en/playlist.m3u8
